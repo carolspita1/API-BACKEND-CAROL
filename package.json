@@ -13,7 +13,15 @@
     "mysql2": "^2.3.3",
     "pg": "^8.8.0",
     "pg-hstore": "^2.3.4",
-    "sequelize": "^6.23.0"
+    "sequelize": "^6.23.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolspita1/API-BACKEND-CAROL.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carolspita1/API-BACKEND-CAROL/issues"
+  },
+  "homepage": "https://github.com/carolspita1/API-BACKEND-CAROL#readme",
   "description": ""
 }
